@@ -8,4 +8,4 @@ int main (){
 
 //Another thing about constant variables, is that it is considered good practice to declare them with uppercase.
 
-It is not required, but useful for code readability and common for C programmers:
+// It is not required, but useful for code readability and common for C programmers:
